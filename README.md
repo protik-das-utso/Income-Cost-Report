@@ -69,9 +69,11 @@ The program will present a menu with the following options:
 ```
 ## 2. Sample Graph:
 The program will display a graph with Income and Cost plotted over time (Month & Year).
+![Income vs Cost Graph](preview/figure1.png)
 
 ## 3. Exported PDF Example:
 The PDF will contain the following sections:
+![Income vs Cost Graph](preview/figure2.png)
 
 - Table: A list of all the records.
 - Summary: Total income, total cost, and net balance.
