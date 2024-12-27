@@ -1,0 +1,74 @@
+[
+    {
+        "year": 2024,
+        "month": "January",
+        "income": 86000.0,
+        "cost": 46533.0
+    },
+    {
+        "year": 2024,
+        "month": "February",
+        "income": 50000.0,
+        "cost": 10500.0
+    },
+    {
+        "year": 2024,
+        "month": "March",
+        "income": 47000.0,
+        "cost": 9000.0
+    },
+    {
+        "year": 2024,
+        "month": "April",
+        "income": 52000.0,
+        "cost": 11000.0
+    },
+    {
+        "year": 2024,
+        "month": "May",
+        "income": 49000.0,
+        "cost": 8000.0
+    },
+    {
+        "year": 2024,
+        "month": "June",
+        "income": 53000.0,
+        "cost": 15000.0
+    },
+    {
+        "year": 2024,
+        "month": "July",
+        "income": 48000.0,
+        "cost": 12000.0
+    },
+    {
+        "year": 2024,
+        "month": "August",
+        "income": 50000.0,
+        "cost": 14000.0
+    },
+    {
+        "year": 2024,
+        "month": "September",
+        "income": 51000.0,
+        "cost": 10000.0
+    },
+    {
+        "year": 2024,
+        "month": "October",
+        "income": 55000.0,
+        "cost": 13000.0
+    },
+    {
+        "year": 2024,
+        "month": "November",
+        "income": 60000.0,
+        "cost": 16000.0
+    },
+    {
+        "year": 2024,
+        "month": "December",
+        "income": 60000.0,
+        "cost": 27000.0
+    }
+]
