@@ -84,6 +84,6 @@ This project is open-source and available under the MIT License.
 Feel free to fork this repository and contribute to improvements. If you have any suggestions or bug fixes, please open an issue or submit a pull request.
 
 # Author
-This project is developed by PROTIK DAS UTSO. You can reach me at [protikdas018830@gmail.com](mailto:protikdas018830@gmail.com) or via WhatsApp at [Click to message me on WhatsApp](https://wa.me/8801883044415).
+This project is developed by PROTIK DAS UTSO. You can reach me at [protikdas018830@gmail.com](mailto:protikdas018830@gmail.com) or via WhatsApp at [+8801883044415](https://wa.me/8801883044415).
 
 
